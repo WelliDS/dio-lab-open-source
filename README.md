@@ -168,6 +168,8 @@ Ahora que ha creado su README.md, puede compartir esta información con toda la 
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
+teste
+
 ⭐ Adicionando aos favoritos (**star**) 
 
 ### Membros da comunidade que já contribuiram:
